@@ -8,6 +8,7 @@ Repository for documenting the process of exploring the data field
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/194c0af21792f57a381bdf365c6bf47eed8274d4?raw=1">Joining Data in SQL</a>
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/e560545b05e0da6a3193768fd799bcdd1ebcef22?raw=1">Introduction to Relational Databases in SQL</a>
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/ce5f9bfe904261638c4c8a1fd3763631c3c52fbe?raw=1">Data Manipulation in SQL</a>
+- <a href="https://www.datacamp.com/statement-of-accomplishment/course/e049779957e4004b41fad7b4ad582c365a691851?raw=1">PostgreSQL Summary Stats and Window Functions</a>
 
 ### Python
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/d020fe0a370fbf18080131cc713059749fa9074c?raw=1">Introduction to Python</a>
