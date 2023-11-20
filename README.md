@@ -1,7 +1,7 @@
 # learning-data
 Repository for documenting the process of exploring the data field
 
-## DataCamp courses
+## Certificate
 ### SQL
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/4531eb4273799299702738aa18d3986cbf801144?raw=1">Introduction to SQL</a>
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/27b48502973d7af759d23cdc59b1fe340608d184?raw=1">Intermediate SQL</a>
@@ -12,6 +12,7 @@ Repository for documenting the process of exploring the data field
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/a3fa785263c5ac857c184e194d0a39fd09328847?raw=1">Functions for Manipulating Data in PostgreSQL</a>
 
 ### Python
+- <a href="https://www.kaggle.com/learn/certification/alyamf/intro-to-programming">Intro to Programming</a>
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/d020fe0a370fbf18080131cc713059749fa9074c?raw=1">Introduction to Python</a>
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/a7bf4edbd6cac43135ac7a97fb47f6e49730d5de?raw=1">Intermediate Python</a>
 
