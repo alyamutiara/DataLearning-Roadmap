@@ -1,7 +1,7 @@
 # learning-data
 Repository for documenting the process of exploring the data field
 
-## Certificate
+## Completed Course and Certification
 ### SQL
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/4531eb4273799299702738aa18d3986cbf801144?raw=1">Introduction to SQL</a>
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/27b48502973d7af759d23cdc59b1fe340608d184?raw=1">Intermediate SQL</a>
@@ -24,5 +24,5 @@ Repository for documenting the process of exploring the data field
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/ad400a557ab7d1448b2eda0c88c60b381d2bab67?raw=1">Introduction to Tableau</a>
 
 ## Ongoing Activity
-1. Rakamin - Project-Based Internship: Data Engineer in ID/X Partners
-2. Dicoding - Data Science Bootcamp
+1. Coursera - Google Data Analytics Certification
+2. Datacamp - Data Analyst with Python path
