@@ -1,5 +1,13 @@
-# learning-data
-Repository for documenting the process of exploring the data field
+# Data-Learning Roadmap
+Repository for documenting the process of exploring the data field, particularly for preparing career-shifting towards data analyst.
+
+Based on <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Google Data Analytics Professional - Coursera</a>, there are six steps of data analysis.
+1. <b>Ask</b> question and define the problem -> Bussiness challenge/Objective/Question.
+2. <b>Prepare</b> data by collecting and storing the information -> Data generation, collection, storage, and management.
+3. <b>Process</b> data by cleaning and checking the information -> Data cleaning/data integrity.
+4. <b>Analyze</b> data to find patterns, relationship, and trends -> Data exploration, visualization, and analysis.
+5. <b>Share</b> data with audience -> Communicating and interpreting result.
+6. <b>Act</b> on the data and use the analysis result -> Putting insight to work to solve the problem.
 
 ## Completed Course and Certification
 ### SQL
