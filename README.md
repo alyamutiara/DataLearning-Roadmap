@@ -5,6 +5,7 @@ Repository for documenting the process of exploring the data field
 ### SQL
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/4531eb4273799299702738aa18d3986cbf801144?raw=1">Introduction to SQL</a>
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/27b48502973d7af759d23cdc59b1fe340608d184?raw=1">Intermediate SQL</a>
+- <a href="https://www.kaggle.com/learn/certification/alyamf/advanced-sql">Advanced SQL</a>
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/194c0af21792f57a381bdf365c6bf47eed8274d4?raw=1">Joining Data in SQL</a>
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/e560545b05e0da6a3193768fd799bcdd1ebcef22?raw=1">Introduction to Relational Databases in SQL</a>
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/ce5f9bfe904261638c4c8a1fd3763631c3c52fbe?raw=1">Data Manipulation in SQL</a>
