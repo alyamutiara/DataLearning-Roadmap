@@ -19,6 +19,7 @@ Based on <a href="https://www.coursera.org/professional-certificates/google-data
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/ce5f9bfe904261638c4c8a1fd3763631c3c52fbe?raw=1">Data Manipulation in SQL</a>
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/e049779957e4004b41fad7b4ad582c365a691851?raw=1">PostgreSQL Summary Stats and Window Functions</a>
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/a3fa785263c5ac857c184e194d0a39fd09328847?raw=1">Functions for Manipulating Data in PostgreSQL</a>
+- <a href="https://www.datacamp.com/statement-of-accomplishment/course/11caa25db92f6cfd95105aaf22ac5ac07ce8527e?raw=1">Database Design</a>
 
 ### Python
 - <a href="https://www.kaggle.com/learn/certification/alyamf/intro-to-programming">Intro to Programming</a>
